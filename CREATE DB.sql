@@ -4,7 +4,6 @@
 -- Drop tables in case of issue:
 DROP TABLE air_quality_tb;
 
-
 -- Create database:
 CREATE DATABASE ETLAssignment;
 
